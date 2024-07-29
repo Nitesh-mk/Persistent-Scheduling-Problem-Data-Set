@@ -8,3 +8,5 @@ Figure 4a: Scheduling_horizon_data.txt
 Figure 4b: Number of Drones_data.txt
 
 Figure 5 and Table1: Reduced_operational_time.txt
+
+Selecting and scheduling robots simulation: Simulation_selecting_drones.txt
