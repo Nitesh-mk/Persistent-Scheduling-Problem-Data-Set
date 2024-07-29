@@ -1,6 +1,8 @@
 This file has data used for comparision with varying scheduling horizon
-D1 - represents the powers of 2 data
-D2 - represents the when data is deviated from powers of 2
+D1 : Represents the parameters of 10 different robots with cycle times that are powers of 2.
+
+D2 : Represents the parameters when the cycle times of the 10 robots slightly perturbed from the powers of 2.
+
 First row represents the charging time for the robots and second row represents the operation time
 
 
