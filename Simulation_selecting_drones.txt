@@ -1,5 +1,7 @@
 This file has data used for selecting and scheduling robots on limited charging stations
 
-D : Represents the parameters of 7 different drones available for mission.
-[14 14 14 14 25 25 25; 20 20 20 20 30 30 30]
+D: Represents the parameters of 7 different drones available for the mission.
+[3 4 6 7 9 10 8; 4 7 8 7 10 10 14]
 
+Revised parameters with reduced scheduling horizon calculated using epsilon values of 20%.
+D:[3 4 6 7 9 10 8; 3 5 6 5 9 8 10]
